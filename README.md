@@ -1,9 +1,9 @@
 
 # Ex.No.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques for the the following Prompt Engineering types with examples - Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
 
-# Name:Piyush kumar                                                                            
+# Name: Lohini S                                                                  
 
-# REGISTER NUMBER : 212223220075
+# REGISTER NUMBER : 212225240079
 
 # Aim: To write the prompts for these following prompt types and evaluate that using any one method 
 
@@ -14,8 +14,6 @@
 3. Preceding Question Prompting
 
 4. Missing Word Prompting
-
-# Explanation - Any one use case from Unit 5 and generate the report for that with the unit 2 Prompt type
 
 Procedure:
 
@@ -46,54 +44,41 @@ Procedure:
 
 # OUTPUT: 
 # 1.	Straightforward Prompts:
-a.Photosynthesis is the biological process by which plants, algae, and some bacteria convert light energy into chemical energy, producing oxygen and organic compounds from carbon dioxide and water.
+
+a.Photosynthesis is the process by which green plants use sunlight, carbon dioxide, and water to make food (glucose) and release oxygen.
 
 b.Three advantages of electric vehicles are:
 
-Reduced Greenhouse Gas Emissions: They produce zero tailpipe emissions, significantly lowering air pollution and contributing to climate change mitigation, especially when charged with renewable energy.
+i. They produce zero tailpipe emissions, reducing air pollution.
 
-Lower Operating and Maintenance Costs: Electricity is generally cheaper than gasoline, and EVs have fewer moving parts, reducing expenses for fuel, oil changes, and engine maintenance.
+ii. They have lower running and maintenance costs.
 
-Quieter Operation and Improved Performance: They provide a quieter driving experience and deliver instant torque, resulting in smooth and rapid acceleration.
+iii. They are energy-efficient and reduce dependence on fossil fuels.
 
 # 2 Tabular Format Prompting:
-a.<img width="1047" height="536" alt="image" src="https://github.com/user-attachments/assets/ec81c16e-8eae-4d46-9d31-3ebaef629d4d" />
+a.<img width="947" height="526" alt="image" src="https://github.com/user-attachments/assets/da531334-653f-445a-9cc4-7f6df73e0b45" />
 
-b.<img width="1042" height="533" alt="image" src="https://github.com/user-attachments/assets/44b6cfd0-41d6-4fc2-90c3-5056a55e170c" />
+b.<img width="947" height="384" alt="image" src="https://github.com/user-attachments/assets/44d875ec-731e-4ae4-98e4-92628d90aa72" />
+
 
 # 3 Preceding Question Prompting:
-a.Climate change is a global concern because its causes, impacts, and solutions transcend national borders. Greenhouse gas emissions anywhere affect the climate everywhere, leading to worldwide consequences like:
+a.Climate change is a global concern because it affects weather patterns, sea levels, agriculture, water resources, human health, and biodiversity worldwide. It can cause extreme events such as floods, droughts, heatwaves, and cyclones, impacting economies and communities across countries.
 
-Rising sea levels threatening coastal cities and island nations.
+Greenhouse gases such as carbon dioxide (CO₂), methane (CH₄), and nitrous oxide (N₂O) trap heat in the Earth’s atmosphere. This happens through the greenhouse effect — sunlight enters the Earth’s atmosphere, warms the surface, and some of the heat that tries to escape back into space is absorbed and trapped by these gases. As the concentration of greenhouse gases increases due to human activities like burning fossil fuels and deforestation, more heat is trapped, leading to global warming.
 
-Extreme weather events (heatwaves, floods, storms) becoming more frequent and severe.
+b.Vaccines work by training the body’s immune system to recognize and fight harmful germs (like viruses or bacteria) without causing the actual disease.
 
-Disruption of ecosystems and loss of biodiversity.
+During immunization:
 
-Risks to food and water security due to shifting agricultural zones and droughts.
+i. A weakened or inactive part of a germ (called an antigen) is introduced into the body.
 
-b.Vaccines teach your immune system how to recognize and defeat a dangerous germ before it can make you seriously sick. They do this by giving your body a harmless "practice run" of the infection, so it’s prepared for the real thing.
+ii. The immune system recognizes it as foreign and produces antibodies to fight it.
 
-The Process of Immunization in Simple Terms
-The "Training" Dose: A vaccine is injected (or given orally). It contains either:
+iii. The body also creates memory cells that remember the germ.
 
-A weakened or dead version of the germ.
+iv. If the real germ enters the body later, the immune system quickly recognizes and destroys it before the person becomes seriously ill.
 
-Just a piece of the germ (like its protein "spike").
-
-Instructions (like mRNA) for your cells to make a harmless piece of the germ.
-
-Key point: This material cannot give you the actual disease. It’s just a recognizable "mugshot" of the enemy.
-
-Immune System "Boot Camp": Your immune system detects this intruder and swings into action:
-
-White blood cells track down and destroy the vaccine material.
-
-More importantly, special cells create antibodies—custom-made "search-and-destroy" weapons designed to latch onto that specific germ.
-
-Creating Memory: After the "practice run" is over, most of the antibodies go away, but your immune system keeps a few special memory cells. These cells "remember" the germ's mugshot for years, sometimes for life.
-
-Future Protection: If the real, live germ ever invades your body in the future, your immune system doesn't start from scratch. The memory cells recognize it immediately, trigger a rapid production of antibodies, and destroy the germ so quickly that you don’t get sick, or you get only a mild illness.
+In simple words, vaccines act like a practice session for your immune system, helping it prepare to fight real infections.
 
 # 4  Missing Word Prompting:
 a.The capital of France is Paris.
