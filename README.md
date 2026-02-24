@@ -2,17 +2,13 @@
 # Ex.No.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques for the the following Prompt Engineering types with examples - Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
 
 # Name: Lohini S                                                                  
-
 # REGISTER NUMBER : 212225240079
 
 # Aim: To write the prompts for these following prompt types and evaluate that using any one method 
 
 1. Straightforward Prompts
-
 2. Tabular Format Prompting
-
 3. Preceding Question Prompting
-
 4. Missing Word Prompting
 
 Procedure:
@@ -84,7 +80,6 @@ In simple words, vaccines act like a practice session for your immune system, he
 a.The capital of France is Paris.
 
 b.In photosynthesis, plants absorb sunlight to produce glucose (sugar) and oxygen.
-
 
 # RESULT: 
 The various types of Prompts are executed successfully with generated the report.
